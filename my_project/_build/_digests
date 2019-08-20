@@ -1,0 +1,5 @@
+"Rule: ocaml: cmx* & o* -> native (%=my_prog )": "EC\024\145z\234\194ir\208\016X\190\135\182\004"
+"Rule: ocaml dependencies ml (%=my_prog )": "\2142-6a\229\\\199\205\213:p>\159{\155"
+"Rule: ocaml: ml -> cmo & cmi (%=my_prog )": "\131\161\238\155\244\142g\241\2311#t\135\b\246\151"
+"Rule: ocaml: ml & cmi -> cmx & o (%=my_prog )": "\128\153\153\253\001\198\1419\2041R\169\163\189\018\239"
+"Resource: /home/sha/my_project/my_prog.ml": "gjQG\2532\001\186\152\152^\175\0247\213\196"
